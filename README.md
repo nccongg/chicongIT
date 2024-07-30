@@ -1,8 +1,14 @@
 ## Hi there 👋
 ## WELCOME TO MY PAGE
-
 My name is Nguyen Chi Cong, I am a student from the University of Science.
 
+
+📫 How to reach me:
+
+[Facebook](https://www.facebook.com/profile.php?id=100020378081627)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chicongIT&repo=TicTacToe-SQR&theme=highcontrast&show_icons=true)](https://github.com/chicongIT/TicTacToe-SQR.git)
 <!--
 **chicongIT/chicongIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
