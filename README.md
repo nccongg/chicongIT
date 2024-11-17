@@ -1,12 +1,17 @@
-## Hi there 👋
-## WELCOME TO MY PAGE
-My name is Nguyen Chi Cong, I am a student from the University of Science.
+<h1 align="center">👋 Hi there!</h1>
+<h2 align="center">🌟 WELCOME TO MY PAGE 🌟</h2>
 
+<p align="center">
+  My name is <b>Nguyen Chi Cong</b>, a student from the University of Science.
+</p>
 
-📫 How to reach me:
+<h3 align="center">📫 How to reach me:</h3>
 
-- 🌱 [Facebook](https://www.facebook.com/profile.php?id=100020378081627)
-- 💬 chicong442004@gmail.com
+<p align="center">
+  🌱 <a href="https://www.facebook.com/profile.php?id=100020378081627" target="_blank">Facebook</a> <br>
+  💬 <a href="mailto:chicong442004@gmail.com">chicong442004@gmail.com</a>
+</p>
+
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chicongIT&repo=TicTacToe-SQR&theme=highcontrast&show_icons=true)](https://github.com/chicongIT/TicTacToe-SQR.git)
